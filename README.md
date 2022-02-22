@@ -4,7 +4,7 @@ The script will deploy CentOS Linux on a VM instance.
 
 - app-variables.tf -->  Application variables
 
-- centos-versions.tf --> Fedora Versions
+- centos-versions.tf --> CentOS Versions
 
 - linux-vm-main.tf --> Create a CentOS VM using Terraform
 
